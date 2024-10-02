@@ -1,0 +1,28 @@
+2024-10-02T09:12:04.791-07:00  INFO 48590 --- [scoredb] [main] com.actech.scoredb.ScoredbApplication    : Starting ScoredbApplication using Java 17.0.8 with PID 48590 (/Users/jless/SpringBootFun/ScoreDb/scoredb/target/classes started by jless in /Users/jless/SpringBootFun/ScoreDb)
+2024-10-02T09:12:04.792-07:00  INFO 48590 --- [scoredb] [main] com.actech.scoredb.ScoredbApplication    : No active profile set, falling back to 1 default profile: "default"
+2024-10-02T09:12:05.215-07:00  INFO 48590 --- [scoredb] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8085 (http)
+2024-10-02T09:12:05.222-07:00  INFO 48590 --- [scoredb] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-10-02T09:12:05.222-07:00  INFO 48590 --- [scoredb] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.30]
+2024-10-02T09:12:05.255-07:00  INFO 48590 --- [scoredb] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-10-02T09:12:05.255-07:00  INFO 48590 --- [scoredb] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 439 ms
+2024-10-02T09:12:05.431-07:00  INFO 48590 --- [scoredb] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8085 (http) with context path '/'
+2024-10-02T09:12:05.437-07:00  INFO 48590 --- [scoredb] [main] com.actech.scoredb.ScoredbApplication    : Started ScoredbApplication in 0.887 seconds (process running for 1.099)
+2024-10-02T09:12:19.870-07:00  INFO 48590 --- [scoredb] [http-nio-8085-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-10-02T09:12:19.870-07:00  INFO 48590 --- [scoredb] [http-nio-8085-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-10-02T09:12:19.871-07:00  INFO 48590 --- [scoredb] [http-nio-8085-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-10-02T09:12:19.898-07:00  INFO 48590 --- [scoredb] [http-nio-8085-exec-1] com.actech.scoredb.ScoredbApplication    : XAC : in default endpoint
+2024-10-02T09:12:23.579-07:00  INFO 48590 --- [scoredb] [http-nio-8085-exec-3] com.actech.scoredb.ScoredbApplication    : XAC : in /test endpoint
+2024-10-02T09:39:01.280-07:00  INFO 61484 --- [scoredb] [main] com.actech.scoredb.ScoredbApplication    : Starting ScoredbApplication using Java 17.0.8 with PID 61484 (/Users/jless/SpringBootFun/ScoreDb/scoredb/target/classes started by jless in /Users/jless/SpringBootFun/ScoreDb)
+2024-10-02T09:39:01.283-07:00  INFO 61484 --- [scoredb] [main] com.actech.scoredb.ScoredbApplication    : No active profile set, falling back to 1 default profile: "default"
+2024-10-02T09:39:01.994-07:00  INFO 61484 --- [scoredb] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8085 (http)
+2024-10-02T09:39:02.005-07:00  INFO 61484 --- [scoredb] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-10-02T09:39:02.005-07:00  INFO 61484 --- [scoredb] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.30]
+2024-10-02T09:39:02.061-07:00  INFO 61484 --- [scoredb] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-10-02T09:39:02.061-07:00  INFO 61484 --- [scoredb] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 735 ms
+2024-10-02T09:39:02.337-07:00  INFO 61484 --- [scoredb] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8085 (http) with context path '/'
+2024-10-02T09:39:02.344-07:00  INFO 61484 --- [scoredb] [main] com.actech.scoredb.ScoredbApplication    : Started ScoredbApplication in 1.349 seconds (process running for 1.78)
+2024-10-02T09:39:35.557-07:00  INFO 61484 --- [scoredb] [http-nio-8085-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-10-02T09:39:35.558-07:00  INFO 61484 --- [scoredb] [http-nio-8085-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-10-02T09:39:35.560-07:00  INFO 61484 --- [scoredb] [http-nio-8085-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-10-02T09:39:35.604-07:00  INFO 61484 --- [scoredb] [http-nio-8085-exec-1] com.actech.scoredb.ScoredbApplication    : XAC : in default endpoint
+2024-10-02T09:39:39.950-07:00  INFO 61484 --- [scoredb] [http-nio-8085-exec-3] com.actech.scoredb.ScoredbApplication    : XAC : in /test endpoint
